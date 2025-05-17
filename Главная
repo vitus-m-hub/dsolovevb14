@@ -1,0 +1,24 @@
+<html>
+  <head>
+    <title>Обо мне</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <header>
+      <a class="link-header" href="index.html">Главная</a>
+    </header>
+    <main>
+      <h1>Соловьёв Даниил</h1>
+      <ul>
+        <li>люблю кататься на самакате</li>
+        <li>занимаюсь плаваньем</li>
+        <li>делаю сайты</li>
+      </ul>
+      <img src="https://learn.algoritmika.org/uploads/2021/04/sky-1871753_1280%201_0_1618254989.png" width="830px" height="550px"/>
+      <img src="https://img.championat.com/i/r/j/17004724432098470715.jpg" width="830px" height="300px"/>
+    </main>
+    <footer>
+      <a class="social" href=""><img src="https://learn.algoritmika.org/uploads/2021/04/Group%201_0_1618254571.png" width="100px" height="100px"/></a>
+    </footer>
+  </body>
+</html>
